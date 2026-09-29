@@ -1,1 +1,7 @@
-
+flask
+flask-cors
+ultralytics
+numpy
+opencv-python-headless
+gunicorn
+google-genai
